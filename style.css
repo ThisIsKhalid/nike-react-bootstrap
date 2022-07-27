@@ -1,0 +1,18 @@
+.header {
+    background-color: #FFF9F4;
+}
+.header-img {
+    background-image: url(./icons/Group\ 33102.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: left top;
+}
+.text-color-orange {
+    color: #FA804C;
+}
+.card-background {
+    background-color: #FFFFFF;
+}
+.card-img-background {
+    background-color: #F1F1F1;
+}
